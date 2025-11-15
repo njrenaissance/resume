@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: validate-resume
+        name: Validate resume.json
+        entry: python validate_resume.py
+        language: system
+        files: ^resume.json$

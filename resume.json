@@ -1,0 +1,167 @@
+{
+    "basics": {
+        "name": "Jonathan Phillips",
+        "label": "DevOps & Infrastructure Leader",
+        "email": "jon_m_phillips@yahoo.com",
+        "phone": "201-580-1110",
+        "url": "",
+        "summary": "DevOps leader with 25+ years of experience driving infrastructure automation, cloud modernization, and API-first orchestration across hybrid environments. Proven success in eliminating legacy systems, deploying containerized platforms, and mentoring high-performing teams. Expert in delivering scalable, secure, and cost-effective solutions that align with enterprise DevOps strategy.",
+        "location": {
+            "city": "Bergenfield",
+            "region": "NJ",
+            "countryCode": "US"
+        }
+    },
+    "skills": [
+        {
+            "name": "Infrastructure & Cloud",
+            "keywords": [
+                "VMware Aria Automation/Orchestrator",
+                "Nutanix",
+                "Docker",
+                "Kubernetes",
+                "Kong",
+                "SaltStack"
+            ]
+        },
+        {
+            "name": "DevOps & CI/CD",
+            "keywords": [
+                "Jenkins",
+                "Atlassian Suite (Jira, Bamboo, Confluence, BitBucket)",
+                "GitOps",
+                "automated testing"
+            ]
+        },
+        {
+            "name": "Programming & Scripting",
+            "keywords": [
+                "Python",
+                "PowerShell",
+                "C#",
+                "JavaScript/TypeScript"
+            ]
+        },
+        {
+            "name": "Security & Governance",
+            "keywords": [
+                "API gateway hardening",
+                "RBAC",
+                "authentication/authorization protocols"
+            ]
+        },
+        {
+            "name": "Leadership",
+            "keywords": [
+                "team coordination",
+                "mentoring",
+                "cross-functional collaboration",
+                "documentation standards"
+            ]
+        }
+    ],
+    "certificates": [
+        {
+            "name": "VMware Certified Professional (VCP5-DCV)"
+        },
+        {
+            "name": "CCNA"
+        },
+        {
+            "name": "MCSE"
+        },
+        {
+            "name": "MCTS SQL Server"
+        }
+    ],
+    "education": [
+        {
+            "institution": "The College of William & Mary",
+            "area": "East Asian Studies",
+            "studyType": "B.A.",
+            "summary": "Summa Cum Laude, Phi Beta Kappa"
+        }
+    ],
+    "work": [
+        {
+            "name": "The Charles Schwab Corporation",
+            "position": "Senior Manager, Infrastructure Automation",
+            "url": "https://www.schwab.com",
+            "startDate": "2020-10",
+            "summary": "",
+            "highlights": [
+                "Created Ansible playbooks for Aria Automation Orchestrator security and roles for Redis/Apache Airflow",
+                "Containerized Orchestration API for Kubernetes, improving scalability and integration",
+                "Retired HP Operations Orchestration ($100K+ savings), migrated workflows, led Python rewrite and standards",
+                "Automated decommissioning of 25,000+ legacy servers",
+                "Migrated AppViewX workflows, reducing costs ($100K+ savings)",
+                "Designed RESTful API wrapper for VMware vCenter Orchestrator",
+                "Built SaltStack deployment files for orchestration APIs"
+            ]
+        },
+        {
+            "name": "TD Ameritrade",
+            "position": "Senior Consultant Engineer, Infrastructure Automation",
+            "url": "https://www.tdameritrade.com",
+            "startDate": "2011-11",
+            "endDate": "2020-10",
+            "summary": "",
+            "highlights": [
+                "Architected on-demand provisioning via vRealize Orchestrator, saving $100k annually",
+                "Developed Python APIs for VM lifecycle management and Remedy integration",
+                "Automated Nutanix VDI restore and VM protection domain management",
+                "Deployed Kong API Gateway in Docker containers",
+                "Mentored interns, three converted to full-time hires"
+            ]
+        },
+        {
+            "name": "TD Ameritrade",
+            "position": "Infrastructure Contractor",
+            "url": "https://www.tdameritrade.com",
+            "startDate": "2009-09",
+            "endDate": "2011-11",
+            "summary": "",
+            "highlights": [
+                "Supported VMware and Windows Server environments in a 14,000+ server estate",
+                "Contributed to early cloud automation efforts and documented workflows"
+            ]
+        },
+        {
+            "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+            "position": "Infrastructure Consultant",
+            "url": "https://www.bbva.com",
+            "summary": "",
+            "highlights": [
+                "Provided systems support and automation guidance for global banking infrastructure",
+                "Assisted in server provisioning, performance optimization, and hybrid environment maintenance"
+            ]
+        },
+        {
+            "name": "TPG Axon",
+            "position": "Infrastructure Engineer",
+            "summary": "",
+            "highlights": [
+                "Delivered IT support and infrastructure automation for hedge fund operations",
+                "Supported virtualization, storage, and network services in high-performance trading environments"
+            ]
+        },
+        {
+            "name": "Soleil Securities",
+            "position": "Systems Administrator",
+            "summary": "",
+            "highlights": [
+                "Managed infrastructure for an independent equities research firm",
+                "Introduced scripting and automation, maintained Active Directory and SQL Server environments"
+            ]
+        },
+        {
+            "name": "Credit Suisse First Boston",
+            "position": "Network Technician & Support Analyst",
+            "summary": "",
+            "highlights": [
+                "Began IT career in 2000 supporting enterprise network infrastructure and desktop environments",
+                "Provided Tier 2 support, configured Cisco devices, contributed to early VoIP deployments and documentation standards"
+            ]
+        }
+    ]
+}

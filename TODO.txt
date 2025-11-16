@@ -1,0 +1,6 @@
+1.  Make sure resume.json contains all relevant information
+2.  Make sure you can export to Microsoft Word document in desired format.
+3.  Update resume at Schwab
+3.5 Export to LinkedIn
+4.  Export to web
+5.  Get personal landing page.

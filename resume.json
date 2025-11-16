@@ -15,6 +15,11 @@
         },
         "profiles": [
             {
+                "network": "GitHub",
+                "username": "njrenaissance",
+                "url": "https://github.com/njrenaissance"
+            },
+            {
                 "network": "LinkedIn",
                 "url": "https://twitter.com/john"
             }

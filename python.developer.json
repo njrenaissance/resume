@@ -5,7 +5,7 @@
         "email": "jonphilnj@gmail.com",
         "phone": "201-580-1110",
         "url": "",
-        "summary": "DevOps leader with 25+ years of experience driving infrastructure automation, cloud modernization, and API-first orchestration across hybrid environments. Proven success in eliminating legacy systems, deploying containerized platforms, and mentoring high-performing teams. Expert in delivering scalable, secure, and cost-effective solutions that align with enterprise DevOps strategy.",
+        "summary": "DevOps leader with 20+ years of experience driving infrastructure automation, cloud modernization, and API-first orchestration across hybrid environments. Proven success in eliminating legacy systems, deploying containerized platforms, and mentoring high-performing teams. Expert in delivering scalable, secure, and cost-effective solutions that align with enterprise DevOps strategy.",
         "location": {
             "address": "194 Pleastant Ave",
             "postalCode": "NJ 07621",
@@ -14,11 +14,6 @@
             "countryCode": "US"
         },
         "profiles": [
-            {
-                "network": "GitHub",
-                "username": "njrenaissance",
-                "url": "https://github.com/njrenaissance/"
-            },
             {
                 "network": "LinkedIn",
                 "url": "https://www.linkedin.com/in/jonathan-phillips-22276810/"
@@ -55,7 +50,7 @@
                 "Jenkins",
                 "GitHub Actions",
                 "Atlassian Suite (Jira, Bamboo, Confluence, BitBucket)",
-                "automated testing"
+                "Automated Testing (PyTest, NUnit)"
             ]
         },
         {
@@ -71,9 +66,9 @@
         {
             "name": "Security & Governance",
             "keywords": [
-                "API gateway hardening",
+                "API Gateway (Kong)",
                 "RBAC",
-                "authentication/authorization protocols"
+                "Authentication/Authorization protocols"
             ]
         },
         {
@@ -105,8 +100,6 @@
             "institution": "The College of William & Mary",
             "url": "https://www.wm.edu",
             "area": "East Asian Studies",
-            "startDate": "1992-09",
-            "endDate": "1996-05",
             "studyType": "B.A.",
             "summary": "Summa Cum Laude, Phi Beta Kappa"
         }
@@ -115,14 +108,6 @@
         {
             "language": "Japanese",
             "fluency": "Monbusho Japanese Language Proficiency Test N1"
-        },
-        {
-            "language": "Spanish",
-            "fluency": "Reading comprehension and basic conversation"
-        },
-        {
-            "language": "Chinese (Mandarin)",
-            "fluency": "Basic reading and writing skills"
         }
     ],
     "references": [
@@ -145,9 +130,9 @@
             "position": "Senior Manager, Infrastructure Automation",
             "location": "Jersey City, NJ",
             "url": "https://www.schwab.com",
-            "startDate": "2020-10",
-            "endDate": "",
-            "summary": "",
+            "startDate": "Oct 2020",
+            "endDate": "Present",
+            "summary": "Worked in partnership with Cloud Infrastructure and Platform teams to modernize orchestration and automation capabilities using VMware Aria Automation Orchestrator, Ansible, Kubernetes, and containerization. Led initiatives to retire legacy systems, enhance security through RBAC and API Gateway integration, and streamline deployment processes. Mentored a team of engineers in best practices for infrastructure-as-code, CI/CD pipelines, and documentation standards.",
             "highlights": [
                 "Created Ansible playbooks for managing Aria Automation Orchestrator security and roles for Redis/Apache Airflow",
                 "Retired HP Operations Orchestration ($100K+ savings per annum) and migrated workflows to Aria Automation Orchestrator 8.11/8.14. Led a team of five engineers to rewrite all workflows in Python and establish standards for development tools, shared libraries, testing, and documentation.",
@@ -162,27 +147,8 @@
             "name": "TD Ameritrade",
             "position": "Senior Consultant, Infrastructure Automation (full-time employee)",
             "location": "Jersey City, NJ",
-            "url": "https://www.tdameritrade.com",
-            "startDate": "2017-05",
-            "endDate": "2020-10",
-            "summary": "",
-            "highlights": [
-                "Wrote RESTful API in Python for VM management that inventoried all virtual machines across the enterprise and gave the ability to start/stop/reconfigure the virtual machine",
-                "Using Nutanix APIs and vRealize Orchestrator created a workflow/API for self-service restore of virtual desktops",
-                "Wrote RESTful API to front-end BMC Remedy so there is no need for a developer or infrastructure engineer to know the intricacies of Remedy forms; instead, they can concentrate on working with familiar objects such as Incidents and Changes",
-                "Wrote RESTful API as a wrapper for VMware vCenter Orchestrator 7.4 so that the self-provisioning UI portal team could call the API to spin up and destroy on-demand compute resources",
-                "Created a vRealize Orchestrator workflow to create virtual machines on demand saving the company from using expensive products such as CloudBolt",
-                "Automated decommissioning of on-demand compute as well as our standard virtual machine environment",
-                "Rearchitected our API Gateway infrastructure and API services to use Docker containers and provide better security (running under non-root accounts) and greater resiliency (multiple upstreams)"
-            ]
-        },
-        {
-            "name": "TD Ameritrade",
-            "position": "Consultant, Infrastructure Automation (full-time employee)",
-            "location": "Jersey City, NJ",
-            "url": "https://www.tdameritrade.com",
-            "startDate": "2011-11",
-            "endDate": "2017-05",
+            "startDate": "Nov 2011",
+            "endDate": "Oct 2020",
             "summary": "",
             "highlights": [
                 "Wrote RESTful API in Python for VM management that inventoried all virtual machines across the enterprise and gave the ability to start/stop/reconfigure the virtual machine",
@@ -198,43 +164,9 @@
             "name": "TD Ameritrade",
             "position": "Infrastructure Contractor",
             "location": "Jersey City, NJ",
-            "url": "https://www.tdameritrade.com",
-            "startDate": "2009-09",
-            "endDate": "2011-11",
-            "summary": "I initially worked with the Windows Server Operations team provisioning servers for our newest datacenter. While in this position, colleague and I worked together automating pieces of the server provisioning process using VBScript, PowerShell, and C# depending on circumstances. Eventually I started specializing in the VMware Operations space. At the time we had started using ESX 3.5 and eventually moved from 3.5 -> 4.0 -> 5.0 while in this role."
-        },
-        {
-            "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
-            "position": "Infrastructure Consultant",
-            "location": "New York, NY",
-            "url": "https://www.bbva.com",
-            "startDate": "2009-01",
-            "endDate": "2009-09",
-            "summary": "Provided systems support and automation guidance for global banking infrastructure. Assisted in server provisioning, performance optimization, and hybrid environment maintenance."
-        },
-        {
-            "name": "TPG Axon",
-            "position": "Information Technology Contractor",
-            "location": "New York, NY",
-            "startDate": "2007-04",
-            "endDate": "2008-12",
-            "summary": "Delivered IT support and infrastructure automation for hedge fund operations. Supported virtualization, storage, and network services in high-performance trading environments."
-        },
-        {
-            "name": "Soleil Securities",
-            "position": "Vice President, IT Manager",
-            "location": "New York, NY",
-            "startDate": "2004-04",
-            "endDate": "2007-03",
-            "summary": "Managed infrastructure for an independent equities research firm. Introduced scripting and automation to streamline server and desktop support, and maintained Active Directory and SQL Server environments."
-        },
-        {
-            "name": "Credit Suisse First Boston",
-            "position": "Assistant Vice President, Business Support Group",
-            "location": "New York, NY",
-            "startDate": "2000-05",
-            "endDate": "2004-03",
-            "summary": "I began IT career at Credit Suisse in a Help Desk position after obtaining MCSE (NT 4.0) certification. After six months I moved on to Desktop Support and then ended tenure there as part of an Escalations Team acting as a liaison between Engineering and Desktop Support"
+            "startDate": "Sep 2009",
+            "endDate": "Nov 2011",
+            "summary": "Initially worked with the Windows Server Operations team provisioning servers for our newest datacenter. While in this position, colleague and I worked together automating pieces of the server provisioning process using VBScript, PowerShell, and C# depending on circumstances. Eventually I started specializing in the VMware Operations space. At the time we had started using ESX 3.5 and eventually moved from 3.5 -> 4.0 -> 5.0 while in this role."
         }
     ]
 }
